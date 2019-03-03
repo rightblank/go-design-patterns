@@ -1,8 +1,6 @@
 go desine patterns
-#####
+====
 
-this repository contains some implementation from Introduction to Go Classical Patterns by Mario Castro Contreras, video link 
-bilibili：https://www.bilibili.com/video/av10623920/?spm_id_from=333.788.videocard.2
-youtube: unknown yet
+this repository contains the code implementation from [Introduction to Go Classical Patterns](https://www.packtpub.com/application-development/introduction-go-classical-patterns-video) by Mario Castro Contreras, 
 
-also, there might be some minor difference from the original code, but they should generaly the same.
+also, there might be some minor differences from the original code, but they should generaly the same.
