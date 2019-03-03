@@ -1,20 +1,20 @@
 package creational
 
 type singleton struct {
-	count int
+    count int
 }
 
 var instance *singleton
 
 //GetInstance dd
 func GetInstance() *singleton {
-	if instance == nil {
-		instance = new(singleton)
-	}
-	return instance
+    if instance == nil {
+        instance = new(singleton)
+    }
+    return instance
 }
 
 func (instance *singleton) AddOne() int {
-	instance.count++
-	return instance.count
+    instance.count++
+    return instance.count
 }

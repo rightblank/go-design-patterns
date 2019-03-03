@@ -1,6 +1,6 @@
 package abstract_factory
 
 type Vehicle interface {
-	GetWheels() int
-	GetSeats() int
+    GetWheels() int
+    GetSeats() int
 }

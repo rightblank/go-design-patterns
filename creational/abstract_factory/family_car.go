@@ -1,17 +1,16 @@
 package abstract_factory
 
 type FamilyCar struct {
-
 }
 
-func (l *FamilyCar) GetDoors() int{
-	return 4
+func (l *FamilyCar) GetDoors() int {
+    return 4
 }
 
 func (l *FamilyCar) GetWheels() int {
-	return 4
+    return 4
 }
 
 func (l *FamilyCar) GetSeats() int {
-	return 5
+    return 5
 }
