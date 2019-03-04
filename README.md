@@ -1,4 +1,4 @@
-go desine patterns
+go design patterns
 ====
 
 this repository contains the code implementation from [Introduction to Go Classical Patterns](https://www.packtpub.com/application-development/introduction-go-classical-patterns-video) by Mario Castro Contreras, 
